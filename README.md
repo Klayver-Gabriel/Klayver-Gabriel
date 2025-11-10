@@ -60,9 +60,6 @@ Acredito no poder da tecnologia para transformar ideias em realidade e estou con
 
 <div align="center">
   
-**⚡ Sequência de Contribuições**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Klayver-Gabriel&theme=dark&hide_border=true)
-
 **📊 Contribuições no Último Ano**  
 ![Contribuições](https://github-readme-stats.vercel.app/api/pin/?username=Klayver-Gabriel&repo=Klayver-Gabriel&theme=dark)
 
