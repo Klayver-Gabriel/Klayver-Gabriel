@@ -37,22 +37,6 @@ Acredito no poder da tecnologia para transformar ideias em realidade e estou con
 ![IA](https://img.shields.io/badge/Inteligência_Artificial-FF6D00?style=for-the-badge&logo=ai&logoColor=white)
 ![Chatbots](https://img.shields.io/badge/Chatbots-00B0FF?style=for-the-badge&logo=chatbot&logoColor=white)
 
----
-
-### 📊 Dashboard do GitHub
-
-<div align="center">
-
-**🎯 Gráfico de Atividade**  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Klayver-Gabriel&theme=github-compact&hide_border=true&area=true)
-
-**📈 Estatísticas**  
-  <a href="https://github.com/Klayver-Gabriel">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Klayver-Gabriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klayver-Gabriel&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-
-</div>
 
 ---
 
