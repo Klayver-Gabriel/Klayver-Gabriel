@@ -19,10 +19,6 @@ Acredito no poder da tecnologia para transformar ideias em realidade e estou con
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Pgzero](https://img.shields.io/badge/Pgzero-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 
-**Bibliotecas e Ferramentas de Dados:**  
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![TotalSegmentator](https://img.shields.io/badge/TotalSegmentator-00B0FF?style=for-the-badge&logo=python&logoColor=white)
 
 **Banco de Dados:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
