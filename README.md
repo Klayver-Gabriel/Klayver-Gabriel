@@ -40,17 +40,6 @@ Acredito no poder da tecnologia para transformar ideias em realidade e estou con
 
 ---
 
-### 🔥 Metricas de Produtividade
-
-<div align="center">
-  
-**📊 Contribuições no Último Ano**  
-![Contribuições](https://github-readme-stats.vercel.app/api/pin/?username=Klayver-Gabriel&repo=Klayver-Gabriel&theme=dark)
-
-</div>
-
----
-
 ### 🎨 "Surpreenda-se com a magia binária"
 
 <div align="center">
